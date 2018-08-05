@@ -4,9 +4,9 @@ Seminario Gráfica Computacional I 2018, Primer Semestre → Clase 11 → Vierne
 
 ### Visualización de datos
 
-En [la clase recién pasada](https://github.com/profesorfaco/dgp502_10/) cerramos la tercera iteración. Revisamos algo de Javascript, algo de D3.js (una biblioteca de JavaScript para la visualización de datos) y algo de p5.js (otra biblioteca, que sirve de introducción a la programación visual). 
+En [la clase recién pasada](https://github.com/profesorfaco/dgp502_10/) cerramos la tercera iteración. En lo que nos queda de semestre, vamos a "especular" respecto de un asunto a visualizar.
 
-En lo que nos queda de semestre, vamos a "especular" respecto de un asunto a visualizar.
+El "especular" va entre comillas porque hay una acepción de la palabra que podría servirnos para definir el encargo: "Hacer conjeturas sobre algo sin conocimiento suficiente".
 
 ![mapa](https://cdn-images-1.medium.com/max/2000/1*3QWmqtaUPYW_hdNgQCf44g.png)
 
