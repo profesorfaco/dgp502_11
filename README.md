@@ -8,7 +8,24 @@ En [la clase recién pasada](https://github.com/profesorfaco/dgp502_10/) cerramo
 
 El "especular" va entre comillas porque hay una acepción de la palabra que podría servirnos para comenzar a definir el encargo: "Hacer conjeturas sobre algo sin conocimiento suficiente".
 
+Se presentó una nivelación en los asuntos básicos de la producción para web: 
+
+- uso de framework Bootstrap;
+- relevancia de la redacción de metadatos;  
+- relevancia de la redacción de textos concisos y precisos; 
+- uso de tipografías, pictogramas, imágenes bitmap, vectoriales y videos. 
+
+Esta nivelación se enfocó en un asunto particular: la visualización de datos, por eso se introdujo el uso de d3.js y p5.js, dos bibliotecas de JavaScript (no de los lenguajes de programación más utilizados en la producción para web).
+
+La nivelación ni la introducción les entregan conocimiento suficiente como para producir algo como lo que sigue:
+
+- http://beta.wind-and-words.com/
+
+- https://50-jahre-hitparade.ch/
+
 ![mapa](https://cdn-images-1.medium.com/max/2000/1*3QWmqtaUPYW_hdNgQCf44g.png)
+
+Sin embargo, bien puede resolver visualizaciones de temas particulares, a nivel de prototipos.  
 
 Favor revisen:
 
