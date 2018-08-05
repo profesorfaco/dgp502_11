@@ -20,12 +20,11 @@ Esta nivelación se enfocó en un asunto particular: la visualización de datos,
 La nivelación ni la introducción les entregan conocimiento suficiente como para producir algo como lo que sigue:
 
 - http://beta.wind-and-words.com/
-
 - https://50-jahre-hitparade.ch/
 
 ![mapa](https://cdn-images-1.medium.com/max/2000/1*3QWmqtaUPYW_hdNgQCf44g.png)
 
-Sin embargo, bien puede resolver visualizaciones de temas particulares, a nivel de prototipos.  
+Sin embargo, bien puede resolver visualizaciones de temas particulares, a nivel de prototipos. Seleccionado temas y elementos visuales más adecuados.  
 
 Favor revisen:
 
