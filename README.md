@@ -20,13 +20,13 @@ Para no perderse con los "fuegos artificiales":
 
 - https://datavizcatalogue.com/index.html
 - http://www.visual-literacy.org/periodic_table/periodic_table.html
+- https://rawgraphs.io/learning/
+- http://datavizproject.com/
 
 También puede ser útil: 
 
-- https://rawgraphs.io/learning/
-- http://datavizproject.com/
-- http://dataviz.tools/
 - https://github.com/d3/d3/wiki/Gallery
+- http://dataviz.tools/
 - http://eyeofestival.com/
 
 - - - - 
