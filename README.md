@@ -6,15 +6,15 @@ Seminario Gráfica Computacional I 2018, Primer Semestre → Clase 11 → Vierne
 
 En [la clase recién pasada](https://github.com/profesorfaco/dgp502_10/) cerramos la tercera iteración. **En lo que nos queda de semestre vamos a "especular": Hacer conjeturas sobre algo sin conocimiento suficiente.**
 
-**El curso presentó una nivelación en herramientas Front End, con énfasis en la visualización de datos (lo que podría ser útil para su Seminario de Diseño Gráfico o, por adelantado, para su Investigación Base de Memoria)**. Por esto se introdujo el uso de [d3.js](https://d3js.org/) (Data Driven Documents) y [p5.js](https://p5js.org/es/) (Proce55ing). El nombre de la primera biblioteca de [JavaScript](https://www.javascript.com/learn/strings) introducida se debe a las tres letras D en "Data Driven Documents". El nombre de la segunda se debe una anécdota: cuando estaba todo listo para el lanzamiento de Processing se dieron cuenta que el dominio no estaba disponible, para salvar la situación usaron el dominio Proce55ing.
+**El curso presentó una nivelación en herramientas Front End, con énfasis en la visualización de datos (lo que podría ser útil para su Seminario de Diseño Gráfico o, por adelantado, para su Investigación Base de Memoria)**. Por esto se introdujo el uso de [d3.js](https://d3js.org/) y [p5.js](https://p5js.org/es/). El nombre de la primera biblioteca de [JavaScript](https://www.javascript.com/learn/strings) introducida se debe a las tres letras D en "Data Driven Documents". El nombre de la segunda se debe una anécdota: cuando estaba todo listo para el lanzamiento de Processing se dieron cuenta que el dominio no estaba disponible, para salvar la situación usaron el dominio Proce55ing.
 
 En la nivelación presentada, tuvieron la posibilidad de:
 
 - familiarizarse con el framework Bootstrap;
 - reconocer la importancia de los metadatos ([megatags](https://megatags.co/)); 
-- reconocer la importancia la redacción de textos concisos, precisos y verificables ([escribir para web](https://www.nngroup.com/topic/writing-web/), [credibilidad](http://credibility.stanford.edu/guidelines/index.html));
-- actualizarse en métodos que permiten la selección de tipografías, pictogramas, imágenes bitmap, vectoriales y videos ([Google Fonts](https://fonts.google.com/), [Font Awesome](https://fontawesome.com/), [SVG](https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Introduction))
-- desarrollar visualizaciones de datos desde la programación de ciclos y condiciones, utilizando variables a las que se pueden asignar contenidos mediante consulta a documentos [CSV](https://es.wikipedia.org/wiki/Valores_separados_por_comas) y [JSON](https://es.wikipedia.org/wiki/JSON).
+- reconocer la importancia de la redacción de textos concisos, precisos y verificables ([escribir para web](https://www.nngroup.com/topic/writing-web/), [credibilidad](http://credibility.stanford.edu/guidelines/index.html));
+- actualizarse en métodos que permiten usar tipografías, pictogramas, imágenes bitmap, vectoriales y videos ([Google Fonts](https://fonts.google.com/), [Font Awesome](https://fontawesome.com/), [SVG](https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Introduction))
+- desarrollar visualizaciones de datos desde la programación de ciclos y condiciones, utilizando variables a las que se asignan contenidos mediante consulta a documentos [CSV](https://es.wikipedia.org/wiki/Valores_separados_por_comas) y [JSON](https://es.wikipedia.org/wiki/JSON).
 
 **Desde lo presentado, no sería sensato suponer que tienen el conocimiento suficiente como para programar:** 
 
