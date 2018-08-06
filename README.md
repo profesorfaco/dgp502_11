@@ -18,7 +18,7 @@ En la nivelación presentó, mediante la práctica, la posibilidad de:
 
 Con la última posibilidad listada aprendieron algo de programación, lo suficiente para comprender que HTML y CSS, que es lo que ya podrían conocer, no son lenguajes de programación sino descripción. 
 
-**Desde lo presentado, no se estructurar el conocimiento suficiente como para programar:** 
+**Desde lo presentado, no sería sensato suponer que tienen el conocimiento suficiente como para programar:** 
 
 - [Wind & Words: An interactive Game of Thrones data visualization](http://beta.wind-and-words.com/)
 - [50 Years Swiss Music Charts](https://50-jahre-hitparade.ch/)
@@ -28,7 +28,7 @@ Con la última posibilidad listada aprendieron algo de programación, lo suficie
 
 ![mapa](https://cdn-images-1.medium.com/max/2000/1*3QWmqtaUPYW_hdNgQCf44g.png)
 
-**Sin embargo, bien puede resolver visualizaciones de temas particulares, a nivel de prototipos. Seleccionado temas y elementos visuales más adecuados.**  
+**Sin el conocimiento suficiente, igualmente pueden resolver visualizaciones de temas particulares, a nivel de prototipos. Seleccionado temas de interés, para presentar con los métodos de visualización más adecuados (en el contexto de la WWW).**  
 
 Para inspirarse, favor revisen:
 
