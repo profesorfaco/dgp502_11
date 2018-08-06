@@ -6,9 +6,9 @@ Seminario Gráfica Computacional I 2018, Primer Semestre → Clase 11 → Vierne
 
 En [la clase recién pasada](https://github.com/profesorfaco/dgp502_10/) cerramos la tercera iteración. **En lo que nos queda de semestre, vamos a "especular": Hacer conjeturas sobre algo sin conocimiento suficiente.**
 
-**El curso presentó una nivelación en herramientas Front End, con énfasis en la narración visual**. Por esto se introdujo el uso de d3.js (Data Driven Documents) y p5.js (Proce55ing). El nombre de la primera biblioteca de JavaScript introducida se debe a las tres letras D en "Data Driven Documents". El nombre de la segunda se debe una anécdota: cuando estaba todo listo para el lanzamiento de Processing se dieron cuenta que el dominio no estaba disponible, para salvar el problema usaron el dominio Proce55ing.
+**El curso presentó una nivelación en herramientas Front End, con énfasis en la visualización de datos que podría ser relevantes para su Seminario de Diseño Gráfico o, por adelantado, para su Investigación Base de Memoria**. Por esto se introdujo el uso de [d3.js](https://d3js.org/) (Data Driven Documents) y [p5.js](https://p5js.org/es/) (Proce55ing). El nombre de la primera biblioteca de [JavaScript](https://www.javascript.com/learn/strings) introducida se debe a las tres letras D en "Data Driven Documents". El nombre de la segunda se debe una anécdota: cuando estaba todo listo para el lanzamiento de Processing se dieron cuenta que el dominio no estaba disponible, para salvar la situación usaron el dominio Proce55ing.
 
-En la nivelación presentó, mediante la práctica, la posibilidad de: 
+En la nivelación presentada, tuvieron la posibilidad de:
 
 - familiarizarse con el framework Bootstrap;
 - reconocer la importancia de los metadatos ([megatags](https://megatags.co/)); 
@@ -28,7 +28,7 @@ Con la última posibilidad listada aprendieron algo de programación, lo suficie
 
 ![mapa](https://cdn-images-1.medium.com/max/2000/1*3QWmqtaUPYW_hdNgQCf44g.png)
 
-**Sin el conocimiento suficiente, igualmente pueden resolver visualizaciones de temas particulares, a nivel de prototipos. Seleccionado temas de interés, para presentar con los métodos de visualización más adecuados (en el contexto de la WWW).**  
+**Sin el conocimiento suficiente, igualmente pueden resolver visualizaciones de temas particulares, a nivel de prototipos. Seleccionado temas de interés, para presentar con los métodos de visualización más adecuados en el contexto de la web.**  
 
 Para inspirarse, favor revisen:
 
