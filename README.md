@@ -1,4 +1,4 @@
-Seminario Gráfica Computacional I 2018, Primer Semestre → Clase 11 → Viernes 1 de junio
+Seminario Gráfica Computacional I 2018, Primer Semestre → Clase 11 → Viernes 1 de junio → Viernes 10 de agosto
 
 # Seminario Gráfica Computacional I (v.2018)
 
@@ -16,8 +16,6 @@ En la nivelación presentada, tuvieron la posibilidad de:
 - actualizarse en métodos que permiten el selección de tipografías, pictogramas, imágenes bitmap, vectoriales y videos ([Google Fonts](https://fonts.google.com/), [Font Awesome](https://fontawesome.com/), [SVG](https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Introduction))
 - desarrollar visualizaciones de datos desde la programación de ciclos y condiciones, utilizando variables a las que podían asignar valores mediante consulta de documentos [CSV](https://es.wikipedia.org/wiki/Valores_separados_por_comas) y [JSON](https://es.wikipedia.org/wiki/JSON).
 
-Con la última posibilidad listada aprendieron algo de programación, lo suficiente para comprender que HTML y CSS, que es lo que ya podrían conocer, no son lenguajes de programación sino descripción. 
-
 **Desde lo presentado, no sería sensato suponer que tienen el conocimiento suficiente como para programar:** 
 
 - [Wind & Words: An interactive Game of Thrones data visualization](http://beta.wind-and-words.com/)
@@ -28,13 +26,13 @@ Con la última posibilidad listada aprendieron algo de programación, lo suficie
 
 ![mapa](https://cdn-images-1.medium.com/max/2000/1*3QWmqtaUPYW_hdNgQCf44g.png)
 
-**Sin el conocimiento suficiente, igualmente pueden resolver visualizaciones de temas particulares, a nivel de prototipos. Seleccionado temas de interés, para presentar con los métodos de visualización más adecuados en el contexto de la web.**  
+**Sin el conocimiento suficiente, igualmente podemos acercarnos a proponer visualizaciones, con los métodos más adecuados, en el contexto de la web. ¿Qué visualizaciones se podrían proponer? Eso depende de ustedes.**  
 
 Para inspirarse, favor revisen:
 
 - https://informationisbeautiful.net/
-- http://giorgialupi.com/
 - http://feltron.com/
+- http://giorgialupi.com/
 
 Para evitar una mala selección de métodos de visualización:
 
@@ -49,6 +47,20 @@ También puede ser útil:
 - http://dataviz.tools/
 - http://eyeofestival.com/
 
-- - - - 
+- - - - - - - - - 
+
+#### Cierre de semestre:
+
+Clase 11 → Viernes 10 de agosto → Evaluación de temática (50% evaluación parcial número 4) 
+
+Clase 12 → Viernes 17 de agosto → Evaluación de visualizaciones (50% evaluación parcial número 4) 
+
+Clase 13 → Viernes 24 de agosto → Desarrollo de justificación. (100% evaluación parcial número 5)
+
+Clase 14 → Viernes 31 de agosto → Presentación de póster (nota final, evaluación coeficiente 2)
+
+**Otra evaluación que se agregará al cálculo de su promedio será la de asistencia y puntualidad.** 
+
+- - - - - - - - - 
 
 Clases: [1](https://github.com/profesorfaco/dgp502_1/), [2](https://github.com/profesorfaco/dgp502_2/), [3](https://github.com/profesorfaco/dgp502_3/), [4](https://github.com/profesorfaco/dgp502_4/), [5](https://github.com/profesorfaco/dgp502_5/), [6](https://github.com/profesorfaco/dgp502_6/), [7](https://github.com/profesorfaco/dgp502_7/), [8](https://github.com/profesorfaco/dgp502_8/), [9](https://github.com/profesorfaco/dgp502_9/), [10](https://github.com/profesorfaco/dgp502_10/).
