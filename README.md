@@ -4,7 +4,7 @@ Seminario Gráfica Computacional I 2018, Primer Semestre → Clase 11 → Vierne
 
 ### Visualización de datos
 
-En [la clase recién pasada](https://github.com/profesorfaco/dgp502_10/) cerramos la tercera iteración. **En lo que nos queda de semestre, vamos a "especular": Hacer conjeturas sobre algo sin conocimiento suficiente.**
+En [la clase recién pasada](https://github.com/profesorfaco/dgp502_10/) cerramos la tercera iteración. **En lo que nos queda de semestre vamos a "especular": Hacer conjeturas sobre algo sin conocimiento suficiente.**
 
 **El curso presentó una nivelación en herramientas Front End, con énfasis en la visualización de datos (lo que podría ser útil para su Seminario de Diseño Gráfico o, por adelantado, para su Investigación Base de Memoria)**. Por esto se introdujo el uso de [d3.js](https://d3js.org/) (Data Driven Documents) y [p5.js](https://p5js.org/es/) (Proce55ing). El nombre de la primera biblioteca de [JavaScript](https://www.javascript.com/learn/strings) introducida se debe a las tres letras D en "Data Driven Documents". El nombre de la segunda se debe una anécdota: cuando estaba todo listo para el lanzamiento de Processing se dieron cuenta que el dominio no estaba disponible, para salvar la situación usaron el dominio Proce55ing.
 
