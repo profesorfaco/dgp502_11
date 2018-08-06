@@ -26,7 +26,7 @@ En la nivelación presentada, tuvieron la posibilidad de:
 
 ![mapa](https://cdn-images-1.medium.com/max/2000/1*3QWmqtaUPYW_hdNgQCf44g.png)
 
-**Sin el conocimiento suficiente, igualmente podemos acercarnos a proponer visualizaciones complejas, con los métodos más adecuados para su divulgación en la web. ¿Qué visualizaciones se podrían proponer? La repuesta depende de ustedes.**  
+**Sin el conocimiento suficiente, igualmente podemos acercarnos a proponer visualizaciones complejas, con los métodos más adecuados para su divulgación en la web. ¿Qué visualizaciones se podrían proponer? La respuesta depende de ustedes.**  
 
 Para inspirarse, favor revisen:
 
