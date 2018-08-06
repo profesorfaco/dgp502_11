@@ -13,8 +13,8 @@ En la nivelación presentada, tuvieron la posibilidad de:
 - familiarizarse con el framework Bootstrap;
 - reconocer la importancia de los metadatos ([megatags](https://megatags.co/)); 
 - reconocer la importancia la redacción de textos concisos, precisos y verificables ([escribir para web](https://www.nngroup.com/topic/writing-web/), [credibilidad](http://credibility.stanford.edu/guidelines/index.html));
-- actualizarse en métodos que permiten el selección de tipografías, pictogramas, imágenes bitmap, vectoriales y videos ([Google Fonts](https://fonts.google.com/), [Font Awesome](https://fontawesome.com/), [SVG](https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Introduction))
-- desarrollar visualizaciones de datos desde la programación de ciclos y condiciones, utilizando variables a las que podían asignar valores mediante consulta de documentos [CSV](https://es.wikipedia.org/wiki/Valores_separados_por_comas) y [JSON](https://es.wikipedia.org/wiki/JSON).
+- actualizarse en métodos que permiten la selección de tipografías, pictogramas, imágenes bitmap, vectoriales y videos ([Google Fonts](https://fonts.google.com/), [Font Awesome](https://fontawesome.com/), [SVG](https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Introduction))
+- desarrollar visualizaciones de datos desde la programación de ciclos y condiciones, utilizando variables a las que se pueden asignar contenidos mediante consulta a documentos [CSV](https://es.wikipedia.org/wiki/Valores_separados_por_comas) y [JSON](https://es.wikipedia.org/wiki/JSON).
 
 **Desde lo presentado, no sería sensato suponer que tienen el conocimiento suficiente como para programar:** 
 
